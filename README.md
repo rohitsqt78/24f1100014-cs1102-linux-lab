@@ -5,3 +5,5 @@ Hi, I’m Rohit Choubey 👋
 I’m a Computer BS ELECTRONICS SYSTEM student, interested in Linux, programming, and automation.  
 This repository contains my Linux Lab work for CS1102.  
 
+## Updates in this branch
+This line was added in the `update-readme` branch.
